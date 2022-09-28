@@ -1,7 +1,9 @@
 # Getting Started with Create React App
+
+Successful deploy:
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/hloriana/react-app)
 
-Gym Cheung:
+Produces buildspec error:
 
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/GymCheung/swm-amplify)
 
