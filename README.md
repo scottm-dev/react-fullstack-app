@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 Successful deploy:
+
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/hloriana/react-app)
 
 Produces buildspec error:
